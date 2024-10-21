@@ -29,7 +29,7 @@ This repository is a supplement to the web series on building anything web-relat
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/douglascybersec/cyber-blog-templates
+   git clone https://github.com/therootdir/cyber-blog-templates
    ```
 
 2. Start building or follow Tutorial
