@@ -13,7 +13,7 @@ Templates for your next website/blog projects
 
 ## OverView
 
-This repository is a supplement to the web series on building anything web-related, which is featured on the [YouTube Channel. pwd {root}](https://www.youtube.com/@douglascybersec)
+This repository is a supplement to the webdev series on building anything web-related, which is featured on the [YouTube Channel. pwd {root}](https://www.youtube.com/@douglascybersec)
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ This repository is a supplement to the web series on building anything web-relat
 
 2. Start building or follow Tutorial
 
-   > [WebSeries Playlist](https://www.youtube.com/playlist?list=PLGv2XmUT2XAMuJEffIMGeuM8LLgqj9Nr-)
+   > [WebDevSeries Playlist](https://www.youtube.com/playlist?list=PLGv2XmUT2XAMuJEffIMGeuM8LLgqj9Nr-)
 
 ## All Tools Used
 
