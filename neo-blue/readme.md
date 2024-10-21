@@ -12,7 +12,7 @@ The template is developed using HTML and styled with [Tailwind CSS](https://tail
 ## Getting Started
 
 1. Clone this repository or download the files.
-2. Open 'index.html' in your preferred code editor.
+2. Open `index.html` in your preferred code editor.
 3. Replace all placeholder content with your actual information.
 4. Customize the headings, descriptions, and links to match your brand and content.
 
@@ -26,7 +26,7 @@ We used Unsplash for the high-quality images! Here's how to personalize the temp
 
 - Click on the image to open it in full view
 
-- Right-click on the image and select "Copy Image address" or "Open image in new tab"
+- Right-click on the image and select `Copy Image address` or `Open image in new tab`
 
 - In the new tab, you'll see the full URL of the image, which looks like this:
   "https://images.unsplash.com/photo-[image-id]?ixlib=rb-[version]&q=[quality]&w=[width]&fit=[fit]"
@@ -39,7 +39,7 @@ We used Unsplash for the high-quality images! Here's how to personalize the temp
 - Adjust the width and quality parameters (where need be)
 
 > Example:
-> Replacing blog 1 with _[this white-toy image example](https://unsplash.com/photos/a-white-toy-with-a-black-nose-6UDansS-rPI):_
+> Replacing blog 1 with _[this white-robot-toy image example](https://unsplash.com/photos/a-white-toy-with-a-black-nose-6UDansS-rPI):_
 
 #### Original:
 
