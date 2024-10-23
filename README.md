@@ -1,43 +1,9 @@
-<<<<<<< HEAD
-# LET'S BUILD - YouTube WebSeries
-=======
 # LET'S BUILD - WebDevSeries
->>>>>>> 1ae6188d3637280a624df83ba4bcb692bfd0f8c6
+
 
 Templates for your next website/blog projects
 
-![Views](https://komarev.com/ghpvc/?username=douglascybersec&color=blueviolet)
-<<<<<<< HEAD
-![GitHub contributors](https://img.shields.io/github/contributors/douglascybersec/cyber-blog-templates?color=blueviolet)
-
-## OverView
-This repository is a supplement to the web series on building anything web-related, which is featured on the [YouTube Channel. pwd {root}](link)
-
-
-## Getting Started
-
-> Simply Navigate to each of the specific Video by Title by Clicking on it below
-
-## Video Series
-
-1. [Build your FIRST Website UI using AI (easy peasy!)](link)
-2. **Coming Up.......**
-
-
-
-### Installations/ReUse (for all)
-
-```
-1. Clone this repository:
-git clone https://github.com/douglascybersec/cyber-blog-templates
-
-
-2. Start building or follow [Tutorials](link to playlist)
-
-```
-
-
-=======
+![Views](https://komarev.com/ghpvc/?username=therootdir&color=blueviolet)
 ![YouTube Video Views](https://img.shields.io/youtube/views/AHu4uMpmaNg?logoColor=blueviolet&color=blueviolet)
 ![GitHub contributors](https://img.shields.io/github/contributors/douglascybersec/cyber-blog-templates?color=blueviolet)
 ![GitHub forks](https://img.shields.io/github/forks/douglascybersec/cyber-blog-templates?logoColor=blueviolet)
@@ -70,7 +36,7 @@ This repository is a supplement to the webdev series on building anything web-re
 2. Start building or follow Tutorial
 
    > [WebDevSeries Playlist](https://www.youtube.com/playlist?list=PLGv2XmUT2XAMuJEffIMGeuM8LLgqj9Nr-)
->>>>>>> 1ae6188d3637280a624df83ba4bcb692bfd0f8c6
+
 
 ## All Tools Used
 
@@ -78,18 +44,6 @@ This repository is a supplement to the webdev series on building anything web-re
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [GitHub Pages](https://pages.github.com/) - Free hosting for static websites
 - [Unsplash](https://unsplash.com/) - Free high-quality images
-<<<<<<< HEAD
-- [Imgr](https://imgur.com/) - Free Uploads of your own imgases
-
-
-## FREE Resources to learn!
-
-- JavaScript:
-
-- HTML:
-
-
-=======
 - [Imgr](https://imgur.com/) - Free Image Uploads
 - [Heroicons](https://heroicons.com/) - Free icons for the Tailwind UI
 
@@ -115,4 +69,3 @@ This repository is a supplement to the webdev series on building anything web-re
 ## Feedback & Contributions!
 
 Got a feedback or want to collaborate? I'm all circuits! Pull requests? Yes! _If not h4ck1n9 or c0d1ng, you might catch me creating cybersecurity content mostly on [YouTube](https://www.youtube.com/@douglascybersec)._
->>>>>>> 1ae6188d3637280a624df83ba4bcb692bfd0f8c6
