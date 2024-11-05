@@ -3,18 +3,17 @@
 
 Templates for your next website/blog projects
 
-![Views](https://komarev.com/ghpvc/?username=therootdir&color=blueviolet)
 ![YouTube Video Views](https://img.shields.io/youtube/views/AHu4uMpmaNg?logoColor=blueviolet&color=blueviolet)
-![GitHub contributors](https://img.shields.io/github/contributors/douglascybersec/cyber-blog-templates?color=blueviolet)
-![GitHub forks](https://img.shields.io/github/forks/douglascybersec/cyber-blog-templates?logoColor=blueviolet)
-![GitHub language count](https://img.shields.io/github/languages/count/douglascybersec/cyber-blog-templates?labelColor=grey&color=blueviolet)
-![GitHub Repo stars](https://img.shields.io/github/stars/douglascybersec/cyber-blog-templates?logoColor=blueviolet)
-![GitHub License](https://img.shields.io/github/license/douglascybersec/cyber-blog-templates?color=blueviolet)
-![GitHub watchers](https://img.shields.io/github/watchers/douglascybersec/cyber-blog-templates?logoColor=blueviolet&color=blueviolet)
+![GitHub contributors](https://img.shields.io/github/contributors/therootdir/cyber-blog-templates?color=blueviolet)
+![GitHub forks](https://img.shields.io/github/forks/therootdir/cyber-blog-templates?logoColor=blueviolet)
+![GitHub language count](https://img.shields.io/github/languages/count/therootdir/cyber-blog-templates?labelColor=grey&color=blueviolet)
+![GitHub Repo stars](https://img.shields.io/github/stars/therootdir/cyber-blog-templates?logoColor=blueviolet)
+![GitHub License](https://img.shields.io/github/license/therootdir/cyber-blog-templates?color=blueviolet)
+![GitHub watchers](https://img.shields.io/github/watchers/therootdir/cyber-blog-templates?logoColor=blueviolet&color=blueviolet)
 
 ## OverView
 
-This repository is a supplement to the webdev series on building anything web-related, which is featured on the [YouTube Channel. pwd {root}](https://www.youtube.com/@douglascybersec)
+This repository is a supplement to the webdev series on building anything web-related, which is featured on the [YouTube Channel. pwd {root}](https://www.youtube.com/@therootdir)
 
 ## Getting Started
 
@@ -23,7 +22,8 @@ This repository is a supplement to the webdev series on building anything web-re
 ## Video Series
 
 1. [Build your FIRST Website UI using AI (easy peasy!)](https://github.com/therootdir/cyber-blog-templates/tree/root/neo-blue)
-2. **Coming Up.......**
+2. [Make a  PERFECT Landing Page in a Flash!](https://youtube.com/shorts/f7jtwmR1zRU?feature=share)
+3. **Coming Up.......**
 
 ## Installations/ReUse (for all)
 
@@ -68,4 +68,4 @@ This repository is a supplement to the webdev series on building anything web-re
 
 ## Feedback & Contributions!
 
-Got a feedback or want to collaborate? I'm all circuits! Pull requests? Yes! _If not h4ck1n9 or c0d1ng, you might catch me creating cybersecurity content mostly on [YouTube](https://www.youtube.com/@douglascybersec)._
+Got a feedback or want to collaborate? I'm all circuits! Pull requests? Yes! _If not h4ck1n9 or c0d1ng, you might catch me creating cybersecurity content mostly on [YouTube](https://www.youtube.com/@therootdir)._
