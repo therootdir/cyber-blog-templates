@@ -3,7 +3,6 @@
 
 Templates for your next website/blog projects
 
-[![RepoVisits](https://hits.dwyl.com/therootdir/cyber-blog-templates.svg?style=flat&show=unique)](http://hits.dwyl.com/therootdir/cyber-blog-templates)
 ![YouTube Video Views](https://img.shields.io/youtube/views/AHu4uMpmaNg?logoColor=blueviolet&color=blueviolet)
 ![GitHub contributors](https://img.shields.io/github/contributors/therootdir/cyber-blog-templates?color=blueviolet)
 ![GitHub forks](https://img.shields.io/github/forks/therootdir/cyber-blog-templates?logoColor=blueviolet)
