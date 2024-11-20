@@ -1,5 +1,5 @@
 # neo-blue-template
-
+![preview](https://github.com/therootdir/cyber-blog-templates/blob/root/neo-blue/preview.PNG)
 This single-file template creates a clean, elegant and responsive website for showcasing your brand, blog articles, and projects.
 The template is developed using HTML and styled with [Tailwind CSS](https://tailwindcss.com/), with the assistance of [PureCode AI](https://purecode.ai/). The prompts used for development are available in the [prompts.txt](https://github.com/therootdir/cyber-blog-templates/blob/root/neo-blue/prompts.txt) file
 
