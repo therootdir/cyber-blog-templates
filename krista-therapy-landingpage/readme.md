@@ -1,5 +1,5 @@
 # Krista - Therapy Landing Page Template
-
+![preview](https://github.com/therootdir/cyber-blog-templates/blob/root/krista-therapy-landingpage/preview.PNG)
 A modern, minimalist therapy service landing page inspired by the TV show Mr. Robot. Built using PureCode AI as part of the ["Let's Build"](https://www.youtube.com/playlist?list=PLGv2XmUT2XAMuJEffIMGeuM8LLgqj9Nr-) series, this project demonstrates how AI can transform web development, making it accessible even to those who "suck at CSS"
 
 > This template is a supplement to the YouTube Video:
