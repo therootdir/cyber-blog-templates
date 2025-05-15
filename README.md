@@ -21,7 +21,7 @@ This repository is a supplement to the webdev series on building anything web-re
 
 ## Video Series
 
-1. [Build your FIRST Website UI using AI (easy peasy!)](https://github.com/therootdir/cyber-blog-templates/blob/root/neo-blue)
+1. [AI Powered Website Builder That Actually WORKS!](https://github.com/therootdir/cyber-blog-templates/blob/root/neo-blue)
 2. [Make a  PERFECT Landing Page in a Flash!](https://github.com/therootdir/cyber-blog-templates/blob/root/krista-therapy-landingpage/readme.md)
 3. **Coming Up.......**
 
